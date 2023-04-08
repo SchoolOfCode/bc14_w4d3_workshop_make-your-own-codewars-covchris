@@ -1,6 +1,4 @@
 /* 
-👉 Write your kata here!
-
 FIZZPOP!
 
 Instructions:
@@ -8,9 +6,6 @@ Write a program which takes in an array of numbers and returns a new array of th
 */
     
 
-
-//👉 Write the function your CodeWarriors will start with below here:
-
-function fizzPop(numbers){
-//write your code here
+export function fizzPop(numbers){
+      //write your answer here
 }
